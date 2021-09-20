@@ -1,0 +1,5 @@
+A) T(n)=θ(n^log2(3))
+B) NA
+C) NA
+D) T(n)=θ(n^log2(n))
+E)T(n)=θ(n^2)
